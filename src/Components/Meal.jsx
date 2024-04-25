@@ -27,7 +27,7 @@ const Meal = () => {
       if (search.trim()) {
         fetchMeals(search);
       }
-    }, 1000);
+    }, 2000);
 
     return () => clearTimeout(delayDebounceFn);
   }, [search]);
