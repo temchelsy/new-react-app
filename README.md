@@ -18,9 +18,8 @@ The app will be available at http://localhost:3000.
 
 ## Available Commands
 
-npm start: Start the development server.
-npm test: Run tests.
-npm run build: Build the production-ready app.
+npm run dev: Start the development server.
+
 
 ### Deployment
 
