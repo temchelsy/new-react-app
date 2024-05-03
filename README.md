@@ -13,7 +13,7 @@ This Meal Finder App allows users to search for meal recipes using TheMealDB API
 
 ## Start the development server:
 
-npm start
+npm run dev
 The app will be available at  http://localhost:5173/
 
 ## Available Commands
