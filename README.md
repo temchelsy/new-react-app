@@ -2,7 +2,7 @@
 
 ## Description
 
-This Meal Finder App allows users to search for meal recipes using TheMealDB API. It features a responsive design, local storage for data persistence, and navigation managed by `react-router-dom`. The project is built with **Vite** for fast development and optimized production builds.
+This Meal Finder App allows users to search for meal recipes using TheMealDB API. It features a responsive design, local storage for data persistence, and navigation managed by `react-router-dom`. The project is built with **Vite** 
 
 ## Features
 
