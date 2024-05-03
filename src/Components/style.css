@@ -100,10 +100,10 @@ body {
     padding: 0.5rem 1rem;
     transition: 0.3s all;
     margin-top: 10px;
-    display: block; /* Always show the recipe details */
+    display: block; 
   }
   
-  /* Remove the hover effect that shows the recipe */
+  
   .card:hover .recipe {
     display: block;
   }
