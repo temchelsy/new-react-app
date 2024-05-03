@@ -1,24 +1,21 @@
-# React Food App
+# React food app
 
-This is a React-based food application. Users can explore a variety of food options, , and enjoy delicious meals.
+## Description
+This Meal Finder App allows users to search for meal recipes using TheMealDB API. It features a responsive design, local storage for data persistence, and navigation managed by `react-router-dom`. The project is built with **Vite** for fast development and optimized production builds.
 
 ## Features
+- Search for meals using TheMealDB API
+- Display meal recipes and details
+- Save favorite meals in local storage
+- Navigate between pages with React Router
 
-Browse a wide range of food items.
-Add items to your cart.
+## Installation
+To get started with this project, clone the repo and install the dependencies:
 
-## Technologies Used
-
-React: Front-end library for building user interfaces.
-React Router: Handles routing and navigation within the app.
-Styled Components: Styling the components with CSS-in-JS.
-API Integration: Connects to external APIs for fetching food data.
-
-## Getting Started
-
-Clone this repository.
-Install the dependencies:
+git clone https://github.com/your-username/meal-finder-app.git
+cd meal-finder-app
 npm install
+
 
 ## Start the development server:
 
