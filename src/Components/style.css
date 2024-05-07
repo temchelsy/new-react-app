@@ -14,7 +14,7 @@ body {
 .heading h1 {
   color: white;
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 900px;
   letter-spacing: 1px;
   padding-top: 2rem;
   text-align: center;
@@ -192,7 +192,7 @@ h2 {
   display: block;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   margin-left: 16rem;
 }
 
@@ -250,4 +250,18 @@ card {
   
   .recipe {
     order: 2;
+  }
+
+  h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 2px;
+  }
+
+  .fav-img {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 10px;
   }
